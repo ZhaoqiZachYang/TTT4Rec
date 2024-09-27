@@ -14,7 +14,7 @@ MIS Department, Eller College of Management, University of Arizona, Tucson, Ariz
 * Install RecBole:
    `pip install recbole`
 
-You can also refer to the required environment specifications in requirement.txt.
+You can also refer to the required environment specifications in requirements.txt.
 
 ### Run
 `
