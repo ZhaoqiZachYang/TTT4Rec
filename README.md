@@ -1,6 +1,8 @@
 # TTT4Rec
 A Test-Time Training Approach for Rapid Adaption in Sequential Recommendation
+
 Zhaoqi Yang, Yanan Wang, Yong Ge
+
 MIS Department, Eller College of Management, University of Arizona, Tucson, Arizona, USA
 
 ## Usage
@@ -10,15 +12,18 @@ MIS Department, Eller College of Management, University of Arizona, Tucson, Ariz
 * PyTorch 1.12+
 * CUDA 11.6+
 * Install RecBole:
+
 `
 pip install recbole
 `
+
 You can also refer to the required environment specifications in requirement.txt.
 
 ### Run
 `
 python main.py
 `
+
 Please specify the dataset in config.yaml. Please set an appropriate maximum sequence length in config.yaml for each dataset before training.
 
 
