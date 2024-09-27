@@ -13,8 +13,9 @@ MIS Department, Eller College of Management, University of Arizona, Tucson, Ariz
 * CUDA 11.6+
 * Install RecBole:
 
+** 
 `
-** pip install recbole
+ pip install recbole
 `
 
 You can also refer to the required environment specifications in requirement.txt.
