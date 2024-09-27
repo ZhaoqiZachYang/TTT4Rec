@@ -1,7 +1,7 @@
 # TTT4Rec
 A Test-Time Training Approach for Rapid Adaption in Sequential Recommendation
 
-Zhaoqi Yang, Yanan Wang, Yong Ge
+Zhaoqi Yang, Yanan Wang, and Yong Ge
 
 MIS Department, Eller College of Management, University of Arizona, Tucson, Arizona, USA
 
@@ -14,7 +14,7 @@ MIS Department, Eller College of Management, University of Arizona, Tucson, Ariz
 * Install RecBole:
 
 `
-pip install recbole
+** pip install recbole
 `
 
 You can also refer to the required environment specifications in requirement.txt.
