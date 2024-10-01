@@ -26,7 +26,7 @@ Please specify the dataset in config.yaml. Please set an appropriate maximum seq
 
 ## Paper
 You can see the paper at:
-
+http://arxiv.org/abs/2409.19142
 
 ## Dataset
 The data is available at:
